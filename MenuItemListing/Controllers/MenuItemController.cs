@@ -16,8 +16,8 @@ namespace MenuItemListing.Controllers
         public List<MenuItem> GetItem()
         {
             List<MenuItem> MenuList = new List<MenuItem>()
-            {   new MenuItem() {Id=1, Name="Phone", Active=true, DateOfLaunch=new DateTime(2017,01,01), FreeDelivery=false,Price=500},
-                new MenuItem() {Id=2, Name="LapTop", Active=false, DateOfLaunch=new DateTime(2018,10,03), FreeDelivery=false,Price=200}
+            {   new MenuItem() {Id=1, Name="Mobile", Active=true, DateOfLaunch=new DateTime(2022,01,06), FreeDelivery=false,Price=10000},
+                new MenuItem() {Id=2, Name="computers", Active=false, DateOfLaunch=new DateTime(2021,10,06), FreeDelivery=false,Price=45000}
 
             };
             return MenuList;
@@ -27,8 +27,8 @@ namespace MenuItemListing.Controllers
         public MenuItem GetItemById(int id)
         {
             List<MenuItem> MenuList = new List<MenuItem>()
-            {   new MenuItem() {Id=1, Name="Phone", Active=true, DateOfLaunch=new DateTime(2017,01,01), FreeDelivery=false,Price=500},
-                new MenuItem() {Id=2, Name="Laptop", Active=false, DateOfLaunch=new DateTime(2018,10,03), FreeDelivery=false,Price=200}
+            {   new MenuItem() {Id=1, Name="Mobile", Active=true, DateOfLaunch=new DateTime(2022,01,06), FreeDelivery=false,Price=10000},
+                new MenuItem() {Id=2, Name="computers", Active=false, DateOfLaunch=new DateTime(2021,10,06), FreeDelivery=false,Price=45000}
 
             };
             MenuItem obj = MenuList.SingleOrDefault(item => item.Id == id);

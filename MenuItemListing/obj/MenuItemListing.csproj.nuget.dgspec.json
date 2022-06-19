@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {}
+    "C:\\Users\\Asus-2022\\Downloads\\cloud practice (1)\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {
+    "C:\\Users\\Asus-2022\\Downloads\\cloud practice (1)\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+        "projectUniqueName": "C:\\Users\\Asus-2022\\Downloads\\cloud practice (1)\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
         "projectName": "MenuItemListing",
-        "projectPath": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
-        "packagesPath": "C:\\Users\\2085786\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\2085786\\source\\repos\\MenuItemListing\\MenuItemListing\\obj\\",
+        "projectPath": "C:\\Users\\Asus-2022\\Downloads\\cloud practice (1)\\MenuItemListing\\MenuItemListing\\MenuItemListing.csproj",
+        "packagesPath": "C:\\Users\\Asus-2022\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Asus-2022\\Downloads\\cloud practice (1)\\MenuItemListing\\MenuItemListing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\2085786\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus-2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }
