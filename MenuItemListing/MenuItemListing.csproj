@@ -12,6 +12,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Update="Menu-deployment.yml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="menuitemys.yml">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
