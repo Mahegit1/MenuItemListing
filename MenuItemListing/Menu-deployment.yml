@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: Menu
-        image: Menu:latest
+        image: acr20221.azurecr.io/mymenurepo:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
