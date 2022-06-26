@@ -1,7 +1,7 @@
 ﻿apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: Menu-deployment
+  name: menudeployment
   labels:
     app: Menu
 spec:
